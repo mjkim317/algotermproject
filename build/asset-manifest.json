@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/algotermproject/static/css/main.7cdaf988.chunk.css",
+    "main.js": "/algotermproject/static/js/main.4332ad3d.chunk.js",
+    "main.js.map": "/algotermproject/static/js/main.4332ad3d.chunk.js.map",
+    "runtime-main.js": "/algotermproject/static/js/runtime-main.16f8f742.js",
+    "runtime-main.js.map": "/algotermproject/static/js/runtime-main.16f8f742.js.map",
+    "static/js/2.3a002032.chunk.js": "/algotermproject/static/js/2.3a002032.chunk.js",
+    "static/js/2.3a002032.chunk.js.map": "/algotermproject/static/js/2.3a002032.chunk.js.map",
+    "index.html": "/algotermproject/index.html",
+    "static/css/main.7cdaf988.chunk.css.map": "/algotermproject/static/css/main.7cdaf988.chunk.css.map",
+    "static/js/2.3a002032.chunk.js.LICENSE.txt": "/algotermproject/static/js/2.3a002032.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f8f742.js",
+    "static/js/2.3a002032.chunk.js",
+    "static/css/main.7cdaf988.chunk.css",
+    "static/js/main.4332ad3d.chunk.js"
+  ]
+}
